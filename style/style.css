@@ -2,6 +2,7 @@
     margin:0;
     padding: 0;
     list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -19,17 +20,30 @@ body {
 .name-container {
     width: 80%;
     margin: auto;
-    border: solid 1px rgb(221, 221, 221);    
+    /* border: solid 1px rgb(221, 221, 221);     */
 }
 
 h1 {
-    font-size: xx-large;
+    font-size: 150px;
     text-align: center;
-    color: blanchedalmond;
+    /* color: rgba(0, 217, 255, 0.185); */
+    color: rgba(234, 0, 255, 0.329);
 }
 
-.header-container {
+.about-me-container {
+    width: 60%;
+    margin: 120px auto 0 auto;
     color: rgb(255, 255, 255);
-    display: inline-block;
-    border: solid 1px rgb(221, 221, 221);
+    background-color: rgba(0, 0, 0, 0.63);
+    /* border: solid 1px rgb(221, 221, 221); */
+}
+
+h2 {
+    font-size: 75px;
+    padding: 0 25px;    
+}
+
+.about-me {
+    padding: 45px 25px;
+    font-size: 25px;
 }
