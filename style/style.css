@@ -7,7 +7,7 @@
 
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/Jason.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/Jason.JPG);
     background-repeat: repeat-y;
     background-position: center;
     background-attachment: fixed;
